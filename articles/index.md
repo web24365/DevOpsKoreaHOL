@@ -1,4 +1,4 @@
-# 20190920 Azure 교육 #1
+# 20190920 Azure 교육 #2
 
 # Azure DevOps HOL
 
